@@ -7,10 +7,9 @@
 
 ## Skills
 - Python
-- Django, Flask
-- SQL, PostgreSQL
-- HTML, CSS, JavaScript
-- Git
+- FastAPI, Flask
+- SQL, PostgreSQL, SQLite
+- Git, GitHub
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gosleeptoday&show_icons=true&theme=radical)
@@ -18,3 +17,4 @@
 
 ## Contact Me
 - [Telegram](https://t.me/printmyname)
+- [VK](https://vk.com/sorrynobrain)
