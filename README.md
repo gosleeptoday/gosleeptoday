@@ -1,1 +1,20 @@
-# myrepo
+# Hi, I'm Fedor Tatarnikov 👋
+
+## About Me
+- 🎓 3rd year student of program 09.02.07
+- 🐍 Studying Python for about 4 years
+- 💻 Writing backend, Telegram bots, parsers, checkers
+
+## Skills
+- Python
+- Django, Flask
+- SQL, PostgreSQL
+- HTML, CSS, JavaScript
+- Git
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+
+## Contact Me
+- [Telegram](https://t.me/your_telegram)
