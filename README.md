@@ -13,8 +13,8 @@
 - Git
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gosleeptoday&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gosleeptoday&layout=compact&theme=radical)
 
 ## Contact Me
-- [Telegram](https://t.me/your_telegram)
+- [Telegram](https://t.me/printmyname)
