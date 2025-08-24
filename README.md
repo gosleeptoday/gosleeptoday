@@ -28,8 +28,6 @@ Graduate of Information Systems and Programming (Specialist Diploma, 09.02.07)
 ## 📊 Development Activity
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gosleeptoday&layout=compact&theme=radical)
 
-[![CodeTime](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25847)](https://codetime.dev) — Tracking coding time since Jun 06, 2024
-
 ---
 
 ## 📫 Let’s Connect
