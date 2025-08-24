@@ -1,13 +1,13 @@
 # 👨‍💻 Fedor Tatarnikov
 
 Information Security Student | Python Developer | Cybersecurity Enthusiast  
-Currently studying at **National Research University MPEI (Moscow)**  
+Currently studying at **MPEI (Moscow)**  
 Graduate of Information Systems and Programming (Specialist Diploma, 09.02.07)
 
 ---
 
 ## 🎓 Education & Background
-- **MPEI (Moscow Power Engineering Institute)**  
+- **MPEI**  
   B.Sc. in **Information Security** (ongoing)  
   Focus: Network security, vulnerability analysis, penetration testing
 
